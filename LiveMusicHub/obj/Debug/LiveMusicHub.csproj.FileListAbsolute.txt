@@ -79,3 +79,6 @@ C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\bin\Microsoft.O
 C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.dll
 C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.pdb
+C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.csprojResolveAssemblyReference.cache
+C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.Migrations.InitialModel.resources
+C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.csproj.GenerateResource.Cache
