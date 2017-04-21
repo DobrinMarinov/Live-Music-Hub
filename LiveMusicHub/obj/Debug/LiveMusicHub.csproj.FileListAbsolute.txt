@@ -82,3 +82,4 @@ C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveM
 C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.csprojResolveAssemblyReference.cache
 C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.Migrations.InitialModel.resources
 C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.csproj.GenerateResource.Cache
+C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.Migrations.CreateGigTable.resources
