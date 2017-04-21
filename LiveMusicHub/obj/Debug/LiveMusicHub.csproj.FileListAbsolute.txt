@@ -84,3 +84,4 @@ C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveM
 C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.csproj.GenerateResource.Cache
 C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.Migrations.CreateGigTable.resources
 C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.Migrations.OverrideConventionsForGigsAndGenres.resources
+C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.Migrations.PopulateGenresTable.resources
