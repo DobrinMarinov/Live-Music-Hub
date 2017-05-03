@@ -85,6 +85,7 @@ C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveM
 C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.Migrations.CreateGigTable.resources
 C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.Migrations.OverrideConventionsForGigsAndGenres.resources
 C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.Migrations.PopulateGenresTable.resources
+<<<<<<< HEAD
 C:\Users\Magi\Desktop\R&D Solutions\LiveMusicHub\LiveMusicHub\bin\ApplicationInsights.config
 C:\Users\Magi\Desktop\R&D Solutions\LiveMusicHub\LiveMusicHub\bin\roslyn\csc.exe
 C:\Users\Magi\Desktop\R&D Solutions\LiveMusicHub\LiveMusicHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -172,3 +173,6 @@ C:\Users\Magi\Desktop\R&D Solutions\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusi
 C:\Users\Magi\Desktop\R&D Solutions\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.csproj.GenerateResource.Cache
 C:\Users\Magi\Desktop\R&D Solutions\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.dll
 C:\Users\Magi\Desktop\R&D Solutions\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.pdb
+=======
+C:\Users\Dobrin Marinov\Desktop\GitHub\LiveMusicHub\LiveMusicHub\obj\Debug\LiveMusicHub.Migrations.AddForeignKeyPropertiesToGig.resources
+>>>>>>> Saving a Gig implemented, minor changes in database
